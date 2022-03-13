@@ -1,6 +1,16 @@
 ### Hello and welcome to my profile, my name is Prem.
 I am an aspiring software developer (Both Desktop and Mobile).
 ___
+### Currently Working on:
+- A Mobile Platformer for Android
+> Based inside Unity using C#
+
+<br>
+
+- A Browser Based MMO-RPG
+> Small scale project to learn Networking, using Javascript and Java.
+
+___
 ### The Programming languages I know:
 <img align="left" alt="Java" width="28px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="C#" width="25 px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
