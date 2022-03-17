@@ -4,11 +4,9 @@ ___
 ### Currently Working on:
 - A Mobile Platformer for Android
 > Based inside Unity using C#
-
 <br>
 
-- A Browser Based MMO-RPG
-> Small scale project to learn Networking, using Javascript and Java.
+- A Portfolio Website
 
 ___
 ### The Programming languages I know:
