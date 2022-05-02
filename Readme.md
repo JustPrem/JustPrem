@@ -1,4 +1,4 @@
-### Hello and welcome to my profile, my name is Prem.
+### Hello and welcome to my profile, my name is Przemek Kaniewski, but Prem is fine.
 I am an aspiring software engineer.
 ___
 ### Currently Working on:
