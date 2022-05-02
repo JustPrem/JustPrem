@@ -1,12 +1,12 @@
 ### Hello and welcome to my profile, my name is Prem.
-I am an aspiring software developer (Both Desktop and Mobile).
+I am an aspiring software engineer.
 ___
 ### Currently Working on:
-- A Mobile Platformer for Android
-> Based inside Unity using C#
-<br>
+- **A Python Script Scheduler:** *Think Windows Scheduler but actually working.*
+- **A Portfolio Website:** *A Small site containing my projects and other information.*
 
-- A Portfolio Website
+### Suspended Projects:
+- **A Mobile platformer for Android:** *Working on adding more content before finishing it.*
 
 ___
 ### The Programming languages I know:
