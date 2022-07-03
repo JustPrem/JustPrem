@@ -6,7 +6,7 @@ ___
 - **Game of Life Program:** *A Java program that simulates Conway's "[Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)"
 
 ### Completed Projects:
-- **Android Game - "[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball)":** *A small android game based of the 2013 game "Flappy Bird"*
+- **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based of the 2013 game "Flappy Bird"*
 
 ___
 ### The Programming languages I know:
