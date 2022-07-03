@@ -2,11 +2,11 @@
 I am an aspiring software engineer.
 ___
 ### Currently Working on:
-- **A Python Script Scheduler:** *Think Windows Scheduler but actually working.*
-- **A Portfolio Website:** *A Small site containing my projects and other information.*
+- **A Portfolio Website:** *A website containing my projects and other information.*
+- **Game of Life Program:** *A Java program that simulates Conway's "[Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)"
 
-### Suspended Projects:
-- **A Mobile platformer for Android:** *Working on adding more content before finishing it.*
+### Completed Projects:
+- **Android Game - "[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball)":** *A small android game based of the 2013 game "Flappy Bird"*
 
 ___
 ### The Programming languages I know:
