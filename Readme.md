@@ -3,10 +3,11 @@ I am an aspiring software engineer.
 ___
 ### Currently Working on:
 - **A Portfolio Website:** *A website containing my projects and other information.*
-- **Game of Life Program:** *A Java program that simulates Conway's "[Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)"
+- **Android Idle RPG Game:** *An Android Idle RPG game, where the player completes dungeons and manages a village.*
 
 ### Completed Projects:
-- **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based of the 2013 game "Flappy Bird"*
+- **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based of the 2013 game "[Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)"*
+- **[Conway's Game of Life](https://github.com/JustPrem/ConwaysGameOfLife):** *A simulation based on "[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)" inside of Java.*
 
 ___
 ### The Programming languages I know:
