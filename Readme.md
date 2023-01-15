@@ -2,8 +2,7 @@
 I am an aspiring software engineer.
 ___
 ### Currently Working on:
-- **A Portfolio Website:** *A website containing my projects and other information.*
-- **Android Idle RPG Game:** *An Android Idle RPG game, where the player completes dungeons and manages a village.*
+- My Degree
 
 ### Completed Projects:
 - **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based of the 2013 game "[Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)"*
