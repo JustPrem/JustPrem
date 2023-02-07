@@ -15,6 +15,10 @@ ___
 I am available for work on Fiverr! Here's the [Link](https://www.fiverr.com/code_prem)
 
 ___
+### Where you can Contact me:
+[<img align="bottom" alt="TwitterFollow" src="https://img.shields.io/twitter/follow/Code_Prem?style=social"/>][TwitterFollow]
+
+___
 ### The Programming languages I know:
 <img align="left" alt="C++" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="28px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
@@ -38,3 +42,6 @@ ___
 [IntelliJ]: https://www.jetbrains.com/idea/
 [AndroidStudio]: https://developer.android.com/studio?gclid=Cj0KCQjwuMuRBhCJARIsAHXdnqNeQ5mGIBvgrrZvQZs8VAxau96ofikuRI__7Y3fNTJLW1CFLHMwy3YaAi6XEALw_wcB&gclsrc=aw.ds
 [Unity]: https://unity.com/
+
+[TwitterFollow]: https://www.twitter.com/Code_Prem
+[Fiverr]: https://www.fiverr.com/Code_Prem
