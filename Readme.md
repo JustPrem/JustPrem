@@ -1,5 +1,5 @@
 ### Hello and welcome to my profile, my name is Przemek Kaniewski, but Prem is fine.
-I'm currently studying a Software Engineering Degree as well as working on mobile games as a hobby, looking for opportunities where I can devolop my skills further by working alongside like minded people.
+I'm currently studying a Software Engineering Degree as well as working on mobile games as a hobby, looking for opportunities where I can develop my skills further by working alongside like minded people.
 
 Currently waiting on my assessments to get graded so I can add them as public repos. Until then please be patient!
 ___
