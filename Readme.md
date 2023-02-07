@@ -1,12 +1,18 @@
 ### Hello and welcome to my profile, my name is Przemek Kaniewski, but Prem is fine.
 I'm currently studying a Software Engineering Degree as well as working on mobile games as a hobby, looking for opportunities where I can devolop my skills further by working alongside like minded people.
+
+Currently waiting on my assessments to get graded so I can add them as public repos. Until then please be patient!
 ___
 ### Currently Working on:
-- My Degree
+- Android Projects in Unity.
+- Software Engineering Degree.
 
 ### Completed Projects:
 - **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based of the 2013 game "[Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)"*
 - **[Conway's Game of Life](https://github.com/JustPrem/ConwaysGameOfLife):** *A simulation based on "[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)" inside of Java.*
+
+### Commisions:
+I am available for work on Fiverr! Here's the [Link](https://www.fiverr.com/code_prem)
 
 ___
 ### The Programming languages I know:
