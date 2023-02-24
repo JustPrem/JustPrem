@@ -8,7 +8,7 @@ ___
 - Software Engineering Degree.
 
 ### Completed Projects:
-- **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based of the 2013 game "[Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)"*
+- **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based on the 2013 game "[Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)" created with Unity*
 - **[Conway's Game of Life](https://github.com/JustPrem/ConwaysGameOfLife):** *A simulation based on "[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)" inside of Java.*
 
 ### Commisions:
