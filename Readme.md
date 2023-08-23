@@ -14,8 +14,8 @@ ___
 ~~I am available for work on Fiverr! Here's the [Link](https://www.fiverr.com/code_prem)~~ Commisions are currently closed, thank you though!
 
 ___
-### Where you can Contact me:
-[<img align="bottom" alt="TwitterFollow" src="https://img.shields.io/twitter/follow/Code_Prem?style=social"/>][TwitterFollow]
+### Social Media:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2LKHM4)
 
 ___
 ### The Programming languages I know:
