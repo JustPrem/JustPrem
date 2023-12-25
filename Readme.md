@@ -10,9 +10,6 @@ ___
 - **[Mad Ball](https://play.google.com/store/apps/details?id=com.JustPremGames.madball):** *A small android game based on the 2013 game "[Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird)" created with Unity*
 - **[Conway's Game of Life](https://github.com/JustPrem/ConwaysGameOfLife):** *A simulation based on "[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)" inside of Java.*
 
-### Commisions:
-~~I am available for work on Fiverr! Here's the [Link](https://www.fiverr.com/code_prem)~~ Commisions are currently closed, thank you though!
-
 ___
 ### Social Media:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2LKHM4)
