@@ -4,6 +4,7 @@ I'm currently studying a Software Engineering Degree as well as working on mobil
 ___
 ### Currently Working on:
 - Android Projects in Unity.
+- Learning OpenGL (w/ glfw) in C++ to create projects from scratch.
 - Software Engineering Degree.
 
 ### Completed Projects:
